@@ -11,7 +11,7 @@ body {
     display: flex;
     max-width: 1200px;
     margin: 20px auto;
-    background: #fff;
+    background:#800080;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
