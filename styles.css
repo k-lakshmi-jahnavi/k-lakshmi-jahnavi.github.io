@@ -11,7 +11,7 @@ body {
     display: flex;
     max-width: 1200px;
     margin: 20px auto;
-    background: #fff;
+    background: #ffff;
     border: 1px solid #ddd;
     border-radius: 8px;
     overflow: hidden;
@@ -26,7 +26,7 @@ body {
 
 .sidebar h3 {
     margin-bottom: 15px;
-    color: #f8b400;
+    color: #ffffff;
 }
 
 .sidebar p, .sidebar a {
